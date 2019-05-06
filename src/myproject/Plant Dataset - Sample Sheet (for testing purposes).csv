@@ -1,0 +1,16 @@
+ID,Plant,Plant taxonomy,"Plant Size (small < 1 ft, medium, large > 3 ft)","Light (low, medium, high)","Water (low, medium, high)",Temp_low (degF),Temp_high (degF),Temp Range,Temp Durability,"Humidity (low, medium, high)","Flowering (yes, no, small, rare)","Pests (yes, no)",Soil (multiple options),"Pot Size (small, medium, large)","Pruning (regular, as-needed, none)",Propogation (multiple options),"Special Occasion (yes, no)",Clean Air Plant (yes/no),Toxicity level
+1,African Violet,Saintpaulia ionantha,,medium,medium,75,80,5,low,high,yes,yes,"rich, airy",small,regular,leaf cutting,yes,no,0
+2,Agave Plant,Agave attenuata,,high,low,50,80,30,high,low,rare,yes,"quick draining, cactus",small,none,offset,no,no,2
+3,Alocasia,Alocasia Amazonica,,medium,medium,60,80,20,medium,high,small,yes,"organic, well-aerated, loose",small,as-needed,plant division,no,no,4
+4,Alocasia-Nebula,Alocasia nebula imperialis,,medium,medium,60,80,20,medium,high,small,yes,"organic, well-aerated, loose",small,as-needed,plant division,no,no,4
+5,Aloe Vera Plant,Aloe Vera,,high,low,65,85,20,medium,low,yes,no,any,small,none,"offset, sucker",no,yes,1
+6,Aluminum Plant,Pilea,,medium,medium,60,75,15,medium,high,small,yes,airy,small,regular,stem cutting,no,no,0
+7,Amaryllis,Hippeastrum,,medium,medium,65,70,5,low,medium,yes,yes,"bulb, quick draining",small,as-needed,offset,yes,no,3
+8,Angel Wing Begonia,Begonia Coccinea,,medium,low,65,75,10,low,medium,yes,yes,rich,medium,as-needed,stem cutting,no,no,1
+9,Anthurium,Anthurium,,medium,medium,75,85,10,low,high,yes,yes,"rich, organic, loose",small,as-needed,"stem cutting, offset",no,yes,3
+10,Aralia Plant,Polyscias fruticosa,,medium,low,60,85,25,high,high,no,yes,"peat-based, well-aerated, light",medium,regular,"stem cutting, air layering",no,no,2
+11,Aralia Plant-Balfour,Polyscias-scutellaria,,medium,low,65,80,15,medium,high,no,yes,"peat-based, well-aerated, light",small,regular,"stem cutting, air layering",no,no,2
+12,Areca Palm,Dypsis lutescens,large,medium,medium,65,75,10,low,high,rare,yes,"rich, acidic",large,as-needed,"seed, offset, sucker, plant division",no,yes,0
+13,Arrowhead Plant,Syngonium podophyllum,medium,medium,medium,60,75,15,medium,high,no,yes,"rich, organic",medium,as-needed,"stem cutting, plant division",no,no,2
+14,Asparagus Fern,Asparagus sprengeri,medium,medium,low,50,75,25,high,medium,small,yes,well-aerated,small,none,plant division,no,no,1
+15,Azalea,Rhododendron,medium,medium,medium,60,70,10,low,medium,yes,yes,"rich, acidic",small,as-needed,"stem cutting, graft, tissue culture",yes,no,4
